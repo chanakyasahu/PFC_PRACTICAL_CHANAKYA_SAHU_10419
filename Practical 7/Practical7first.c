@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
     //Practical 7 : Q.1. Diamond of length 2n-1//
+    //Chanakya Sahu
+    //ERP - 10419
     int n;
     scanf("%d",&n);
     for(int i=1;i<=n;i++){
@@ -23,3 +25,16 @@ int main(){
     }
     return 0;
 }
+
+//Output//
+
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical> cd "c:\Users\chana\OneDrive\Desktop\C Pactical\Practical 7\" ; if ($?) { gcc Practical7first.c -o Practical7first } ; if ($?) { .\Practical7first }
+//4
+//   *
+//  ***
+// *****
+//*******
+// *****
+//  ***
+//   *
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical\Practical 7> 

@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
     //Practical 7 : Q.2.Hourglass of length 2n-1//
+    //Chanakya Sahu
+    //ERP - 10419
     int n;
     scanf("%d",&n);
     for(int i=n;i>=1;i--){
@@ -23,3 +25,16 @@ int main(){
     }
     return 0;
 }
+
+//Output//
+
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical> cd "c:\Users\chana\OneDrive\Desktop\C Pactical\Practical 7\" ; if ($?) { gcc Practical7second.c -o Practical7second } ; if ($?) { .\Practical7second }
+//4
+//*******
+// *****
+//  ***
+//   *
+//  ***
+// *****
+//*******
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical\Practical 7> 

@@ -1,5 +1,7 @@
 #include<stdio.h>
 //Practical 8: Q.1. write function sumOfDigits that taken as input and return sum of its digits//
+//Chanakya Sahu
+//ERP - 10419
 int sumOfDigits(int n){
     int sum=0;
     while(n!=0){
@@ -17,3 +19,10 @@ int main(){
     return 0;
     
 }
+
+//Output//
+
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical> cd "c:\Users\chana\OneDrive\Desktop\C Pactical\Practical 8\" ; if ($?) { gcc Practical8first.c -o Practical8first } ; if ($?) { .\Practical8first }
+//452
+//11
+//PS C:\Users\chana\OneDrive\Desktop\C Pactical\Practical 8> 
